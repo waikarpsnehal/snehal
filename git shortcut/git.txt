@@ -1,0 +1,16 @@
+git scm.com
+
+
+
+git status = to check the status
+
+git log = to check the history
+git clone-add path and folder name
+git rm -rf .git-clear git repositary
+git commit -m "whats changes made"-to commit
+git log -p n =how much changes
+git add . =to add the file
+git log --pretty=oneline=show all the changes in oneline
+git log --pretty=short
+git log --pretty=full
+git log --since=2.days/2.weeks/2.month
